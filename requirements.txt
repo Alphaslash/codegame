@@ -219,6 +219,7 @@ jax==0.4.33
 jax-cuda12-pjrt==0.4.33
 jax-cuda12-plugin==0.4.33
 jaxlib==0.4.33
+jedi==0.19.2
 jeepney==0.7.1
 jellyfish==1.1.0
 jieba==0.42.1
@@ -308,10 +309,10 @@ numba-cuda==0.0.17.1
 numexpr==2.10.2
 numpy==1.26.4
 nvidia-cublas-cu12==12.5.3.2
-nvidia-cuda-cupti-cu12==12.5.82
+nvidia-cuda-cupti-cu12==12.4.127
 nvidia-cuda-nvcc-cu12==12.5.82
-nvidia-cuda-nvrtc-cu12==12.5.82
-nvidia-cuda-runtime-cu12==12.5.82
+nvidia-cuda-nvrtc-cu12==12.4.127
+nvidia-cuda-runtime-cu12==12.4.127
 nvidia-cudnn-cu12==9.3.0.75
 nvidia-cufft-cu12==11.2.3.61
 nvidia-curand-cu12==10.3.6.82
@@ -384,6 +385,7 @@ py4j==0.10.9.7
 pyarrow==17.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
+pycairo==1.27.0
 pycocotools==2.0.8
 pycparser==2.22
 pydantic==2.10.6
@@ -518,7 +520,6 @@ tinycss2==1.4.0
 tokenizers==0.21.0
 toml==0.10.2
 toolz==0.12.1
-torch @ https://download.pytorch.org/whl/cu124/torch-2.5.1%2Bcu124-cp311-cp311-linux_x86_64.whl
 torchaudio @ https://download.pytorch.org/whl/cu124/torchaudio-2.5.1%2Bcu124-cp311-cp311-linux_x86_64.whl
 torchsummary==1.5.1
 torchvision @ https://download.pytorch.org/whl/cu124/torchvision-0.20.1%2Bcu124-cp311-cp311-linux_x86_64.whl
